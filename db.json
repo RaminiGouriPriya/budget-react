@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work Income redux"
+    },
+    {
+      "id": 3,
+      "description": "Rent"
+    },
+    {
+      "id": "2f0dfa2c-51d4-47f9-a5a8-c3da06f5f278",
+      "description": "a new entry was added"
+    },
+    {
+      "id": "76e8578e-5feb-4b76-881f-b52a259ff906",
+      "description": "new"
+    },
+    {
+      "id": "14be89d9-b33c-426c-963e-6b0027ea0f2c",
+      "description": "gfxgf"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 1000,
+      "isExpense": false
+    },
+    {
+      "id": 3,
+      "value": 300,
+      "isExpense": true
+    },
+    {
+      "id": "2f0dfa2c-51d4-47f9-a5a8-c3da06f5f278",
+      "isExpense": true,
+      "value": "100"
+    },
+    {
+      "id": "76e8578e-5feb-4b76-881f-b52a259ff906",
+      "isExpense": true,
+      "value": "10"
+    },
+    {
+      "id": "14be89d9-b33c-426c-963e-6b0027ea0f2c",
+      "isExpense": false,
+      "value": "10"
+    }
+  ]
+}
